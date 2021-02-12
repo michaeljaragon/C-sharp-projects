@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07uwbY/ULzPrP5FZDGLJQPR0xE1KbwcWavP59aguKvtL2j1TilJkd1ppcRRAEctdTsxT4YhpcuzN7Pd7D+iBMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAragon\\C#\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAragon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
