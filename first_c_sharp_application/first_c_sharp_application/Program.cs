@@ -11,8 +11,7 @@ namespace first_c_sharp_application
             if(double.TryParse(str,System.Globalization.NumberStyles.Float,
                 System.Globalization.NumberFormatInfo.CurrentInfo,out result))
             {
-                Console.WriteLine(double.TryParse(str, System.Globalization.NumberStyles.Float,
-                System.Globalization.NumberFormatInfo.CurrentInfo, out result).ToString());
+                Console.WriteLine("Hello World!");
             }
             
         }
