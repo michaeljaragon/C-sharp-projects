@@ -1,0 +1,28 @@
+﻿body {
+    font-family: 'Courier New';
+    font-size: 16pt;
+}
+
+div {
+    font-family: 'Comic Sans MS';
+    font-size: 25pt;
+    color: rebeccapurple;
+}
+
+.superblock {
+    font-family: 'Comic Sans MS';
+    font-size: 25pt;
+    color: brown;
+    background-color: blanchedalmond;
+    border-color: black;
+}
+
+.btn{
+    border: none;
+    color: white;
+    padding: 14px 20px;
+    cursor: pointer;
+}
+
+.info{background-color: blue;}
+.info:hover{background-color: deepskyblue;}
