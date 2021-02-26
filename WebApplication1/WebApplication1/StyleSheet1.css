@@ -26,3 +26,12 @@ div {
 
 .info{background-color: blue;}
 .info:hover{background-color: deepskyblue;}
+.warning {background-color: orange;}
+.warning:hover {background-color: orangered}
+.info:hover{background-color: deepskyblue;}
+.warning {background-color: orange;}
+.warning:hover {background-color: orangered}
+.danger {background-color: red;}
+.danger:hover {background-color: darkred;}
+.success{background-color: lightgreen;}
+.success:hover{background-color: darkgreen;}
